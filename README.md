@@ -1,5 +1,7 @@
 # Cloudflare Workers 代理
 
+## CMliuworks.js====>26行加自动更新ipf地址 https://raw.githubusercontent.com/dj56959566/bestip/refs/heads/main/ip.txt
+
 > 原项目：[https://github.com/yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan)
 
 高！实在是高！白嫖 nat64 公共网关来做代理，太绝了！这样就解决了 workers 代理无法访问 ipv4 only 的网站问题
